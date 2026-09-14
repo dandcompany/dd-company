@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dandcompany.github.io/dd-company/sitemap.xml
